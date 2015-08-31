@@ -46,6 +46,12 @@ you can use the generic selector below, but it's slower:
 .icon-lamp:before {
 	content: "\e002";
 }
+.icon-lightning{
+	content: "\e002";
+	}
+.icon-star, .icon-star-2, .icon-star-3, .icon-star-4, .icon-star-5, .icon-star-6{
+	content: "\e002";
+}
 .icon-wand:before {
 	content: "\e003";
 }
