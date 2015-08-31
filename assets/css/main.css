@@ -78,8 +78,8 @@ body {
 }
 
 body {
-    font-family: "Lato";
-    font-weight: 300;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
     font-size: 16px;
     color: #555;
 
@@ -153,11 +153,31 @@ a img {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
+    font-family: "Quicksand", sans-serif;
     font-weight: 300;
     color: #333;
 }
 
+h7{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    font-size: 65px;
+    color: white;
+}
+
+h8{
+  font-family: "Quicksand", sans-serif;
+  font-weight: 200;
+  font-size: 27px;
+  color: white;
+}
+
+#cit{
+  font-family: "Quicksand", sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  color: white;
+}
 
 /* Paragraph & Typographic */
 p {
@@ -267,7 +287,7 @@ a:after {
 #headerwrap {
 	background: url(../img/header_bg.jpg) no-repeat center top;
 	margin-top: -50px;
-	padding-top:120px;
+	padding-top:75px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -288,7 +308,7 @@ a:after {
 #headerwrap h1 {
 	color:#ffffff;
 	margin-top: 90px;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 	letter-spacing: 8px;
 	font-size: 100px;
 	font-weight: bold;
@@ -461,7 +481,7 @@ a:after {
 }
 
 .service-active p {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto Condesed', sans-serif;
 	padding-top: 10px;
 }
 
