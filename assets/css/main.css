@@ -276,16 +276,13 @@ a:after {
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
-
 #headerwrap {
-	
-	background-repeat: no-repeat;
-	margin-top: -50px;
-	padding-top:120px;
+	background: no-repeat center top;
+	padding-top: 9px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	
+	min-height: 650px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
